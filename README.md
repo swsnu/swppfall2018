@@ -4,7 +4,7 @@
 
 ## Assignments
 
-## Project
+## [Project](project/project.md)
 
 ## Schedule (TBD)
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
