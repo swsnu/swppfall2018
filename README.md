@@ -32,6 +32,7 @@
   - TuTh 11AM-12PM, by appointment
   
 **TAs** :
+
 Sanha Lee
 
 Ahnjae Shin
