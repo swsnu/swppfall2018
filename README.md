@@ -18,12 +18,12 @@
 |10/16,18 | Software development processes, Design patterns I | Python + Creating backend for the created front-end, Testing and CI | |
 |10/23,25 | Software structure and modeling | Design pattern practice 1 | HW 3 due, Project sprint 3 begin |
 |10/30,11/1 | Code refactoring | Mid-project check | |
-|11/6,11/8 | Design patterns 2 | Design pattern practice 2, Code refactoring | Project sprint 4 begin |
-|11/13,11/15 | Design patterns 3 | Design pattern practice 3  |  |
-|11/20,11/22 | Operation | Connecting DB and the backend, Performance layer | Project sprint 5 begin |
-|11/27,11/29 | Operation (load testing, security) | Scaling | Coding exams (2 hours) |
-|12/4,12/6 Code optimization | | Project sprint 6 begin |
-|12/11,12/13 | TBD | | |
+|11/6,8 | Design patterns 2 | Design pattern practice 2, Code refactoring | Project sprint 4 begin |
+|11/13,15 | Design patterns 3 | Design pattern practice 3  |  |
+|11/20,22 | Operation | Connecting DB and the backend, Performance layer | Project sprint 5 begin |
+|11/27,29 | Operation (load testing, security) | Scaling | Coding exams (2 hours) |
+|12/4,6 | Code optimization | | Project sprint 6 begin |
+|12/11,13 | TBD | | |
 |12/18 | Project poster session | | |
 
 ## Office hours
