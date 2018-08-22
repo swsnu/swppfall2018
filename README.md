@@ -13,7 +13,7 @@
 |9/11,13| How to collaborate as a team and the methods and tools for it | Git + GitHub practice with basic javascript + python coding examples | Team formation start |
 |9/18,20 | Good coding habits. Comments and code conventions | Typescript + Front-end lecture (with a sample provided backend) | Team formation due 9/17 9pm; HW 1 due 9/21 9pm |
 |9/25(추석),27 | Complexity problem and software structures | Typescript + Front-end lecture cont’d | Project proposal due 9/24 (Monday) 9pm | 
-|10/2,4 | Complexity problem and software structures | | HW 2 due, Project spring 1 begin (bi-weekly meetings with TAs) |
+|10/2,4 | Complexity problem and software structures | | HW 2 due, Project sprint 1 begin (bi-weekly meetings with TAs) |
 |10/9,11 | Testing and throwing exceptions, Requirements and specification | Python + Creating backend for the created front-end from previous week | Project sprint 2 begin |
 |10/16,18 | Software development processes, Design patterns I | Python + Creating backend for the created front-end, Testing and CI | |
 |10/23,25 | Software structure and modeling | Design pattern practice 1 | HW 3 due, Project sprint 3 begin |
