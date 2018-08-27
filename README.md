@@ -34,10 +34,19 @@
 **TAs** :
 
 Sanha Lee
+  - Email: sanhaleehana@snu.ac.kr
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Tuesday 15:00~16:00
 
 Ahnjae Shin
+  - Email: yuyupopo@snu.ac.kr
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Thursday 16:00~17:00
 
 Jae Hyeon Park
+  - Email: skystar@snu.ac.kr
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Tuesday 17:00-18:00
 
-
+(Please send TAs an email ahead of time, we can set up a specific time and place)
 
