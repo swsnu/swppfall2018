@@ -203,9 +203,9 @@ We will grade the `form.ts` and `form.html` file under the `typescript` director
 We will see the outputs to validate your answers.
 We will compile your `form.ts` with tsc version 3.0.3.
 
-- Valid form checking (5 points)
-- Tooltips (3 points)
-- Modal pop-ups (2 points)
+- Valid form checking with proper alert message (5 points)
+- Label (proper 'X') (2 points)
+- Modal tooltips (3 points)
 - Partial points for minor errors
 
 
