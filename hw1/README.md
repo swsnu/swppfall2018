@@ -112,13 +112,14 @@ Ashley: 957, 2
 ### How to run TypeScript programs
 
 1. We assume that typescript is installed through npm: `$ npm install -g typescript`
-2. With this set up, you can compile the typescript program as followings: `$ tsc form.ts`, under the directory you are working on. It will generate a new `form.js` file.
+2. With this set up, you can compile the typescript program as followings: `$ tsc`, under the directory you are working on. It will generate a new `form.js` file.
 3. Validate that you have the newly generated `form.js` file, and you can use it in `form.html`, as provided in the skeleton code. In our case, you will simply need to open `form.html` on your favorite browser.
 
 Each of the files serve the following roles:
 
 - `form.html` : HTML file for layout for the form checking page.
 - `form.ts` : TypeScript file for form checking and using JS components.
+- `tsconfig.json` : TypeScript configuration file. For more detail, please check [tsconfig handbook](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html). 
 
 We provide `form.html` completely so you don't need to modify the file, but it would be helpful to know the contents for following HWs and your term project.
 You must only alter the code in the sections marked as TODO in the skeleton code and submit your code using GitHub. Do NOT alter the names of the forms in the provided HTML file. Refer to the HTML file to infer the form names.
@@ -201,7 +202,7 @@ We will test your code under Python 3.6.
 
 We will grade the `form.ts` and `form.html` file under the `typescript` directory in your GitHub repository. 
 We will see the outputs to validate your answers.
-We will compile your `form.ts` with tsc version 3.0.3.
+We will compile your `form.ts` with tsc version 3.0.3 and your `tsconfig.json` file.
 
 - Valid form checking (5 points)
 - Tooltips (3 points)
