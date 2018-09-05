@@ -206,8 +206,7 @@ We will see the outputs to validate your answers.
 We will compile your `form.ts` by running command `tsc` (version 3.0.3) with your `tsconfig.json` file.
 
 - Valid form checking with proper alert message (5 points)
-- Label (proper 'X') (2 points)
-- Modal tooltips (3 points)
+- Label (proper 'X') and modal tooltips (5 points)
 - Partial points for minor errors
 
 
