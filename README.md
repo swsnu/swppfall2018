@@ -3,6 +3,7 @@
 ## Announcements
 
 - Sep. 03 : Homework 1 is posted!
+- Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
   
 ## Assignments
 

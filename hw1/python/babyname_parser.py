@@ -9,6 +9,7 @@
 # Modified by Sanha Lee at SNU Software Platform Lab for
 # SWPP fall 2018 lecture.
 
+import os
 import sys
 import re
 
