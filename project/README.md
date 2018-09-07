@@ -23,7 +23,7 @@ The project will follow this process:
 |-|-------|-----|------------|
 | Sprint 1 | Sep. 25 (Tue)| Oct. 8 (Mon), 6pm(report due) | TBD |
 | Sprint 2 | Oct. 9 (Tue)| Oct. 22 (Mon), 6pm(report due) | TBD |
-| Project progress presentation | Oct. 31 practice session | | | 
+| Project progress presentation (TBD) | Oct. 31 practice session | | | 
 | Sprint 3 | Oct. 23 (Tue)| Nov. 5 (Mon), 6pm(report due) | TBD |
 | Sprint 4 | Nov. 6 (Tue)| Nov. 19 (Mon), 6pm(report due) | TBD |
 | Sprint 5 | Nov. 20 (Tue)| Dec. 3 (Mon), 6pm(report due) | TBD |
