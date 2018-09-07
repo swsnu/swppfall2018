@@ -2,10 +2,11 @@
 
 ## Announcements
 
-- Sep. 03 : Homework 1 is posted!
-- Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
 - Team formation due 9/12 (Wed) 9pm
 - Project proposal due 9/19 (Wed) 9pm
+- Sep. 03 : Homework 1 is posted!
+- Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
+- Sep. 07 : [Project guideline](project/README.md) is posted!
   
 ## Assignments
 
@@ -14,7 +15,7 @@
   - This is an individual assignment
 
 
-## [Project](project/project.md)
+## [Project Guideline](project)
 
 ## Schedule (TBD)
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
