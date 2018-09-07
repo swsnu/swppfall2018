@@ -5,10 +5,10 @@ The project will follow this process:
 - Project team formation
 - [Project proposal](projectproposal.md)
 - Project sprint 1
-	- [Requirements and specification](project-requirements-and-specification.md) (required)
+	- [Requirements and specification](project-requirements-and-specification.md)
 - Project sprint 2
 	- Revised requirements and specification
-	- [Design and planning](design-and-planning.md) (required)
+	- [Design and planning](design-and-planning.md)
 	- Working code up to project sprint 2
 - Project sprint 3
 	- Revised requirements and specification
