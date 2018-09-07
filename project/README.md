@@ -42,5 +42,5 @@ The project will follow this process:
 | Sprint 4 | Nov. 6 (Tue)| Nov. 19 (Mon), 6pm(report due) | TBD |
 | Sprint 5 | Nov. 20 (Tue)| Dec. 3 (Mon), 6pm(report due) | TBD |
 | Sprint 6 | Dec. 4 (Tue)| Dec. 17 (Mon) - no report | TBD |
-| Final poster | Dec. 18 (Tue) 9:30 am - 11:00 am (subject to change) | | | 
+| Final poster | Dec. 18 (Tue) 10:00 am - 12:00 pm  | | | 
 | Final report | TBD | | | 
