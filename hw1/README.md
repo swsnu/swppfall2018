@@ -45,7 +45,7 @@ Please check out [this document](https://www.programiz.com/python-programming/de
 For debuggability, defining your own exception and intentionally raising the exception is useful because you can identify the root cause of the exception and distinguish the exception from others.
 We provide `BabynameFileNotFoundException` for this purpose. 
 If there is no such file with the given filename argument of the function to decorate, this decorator has to raise the custom `BabynameFileNotFoundException` with custom error message: `No such babyname file or directory: {filename}`.
-You can assueme that the `filename` argument is the first argument for the function to decorate.
+You can assueme that the `filename` argument is the first argument (right after the `self`) for the function to decorate.
 Also, we will not grade your decorator with it's stack trace but just test the class of the raised exception and it's message.
 
 For detailed information, check the execution example below.
