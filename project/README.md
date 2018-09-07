@@ -7,11 +7,25 @@ The project will follow this process:
 - Project sprint 1
 	- [Requirements and specification](project-requirements-and-specification.md) (required)
 - Project sprint 2
+	- Revised requirements and specification
 	- [Design and planning](design-and-planning.md) (required)
+	- Working code up to project sprint 2
 - Project sprint 3
+	- Revised requirements and specification
+	- Revised design and planning
+	- Working code up to project sprint 3
 - Project sprint 4
+	- Revised requirements and specification
+	- Revised design and planning
+	- Working code up to project sprint 4
 - Project sprint 5
+	- Revised requirements and specification
+	- Revised design and planning
+	- Working code up to project sprint 5
 - Project sprint 6
+	- Revised requirements and specification
+	- Revised design and planning
+	- Working code up to project sprint 6
 - [Final demo poster session](postersession.md) & final report
 
 <!--- Note : Every document for each milestones must be written in **English**! -->
