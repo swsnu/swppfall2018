@@ -4,6 +4,8 @@
 
 - Sep. 03 : Homework 1 is posted!
 - Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
+- Team formation due 9/12 (Wed) 9pm
+- Project proposal due 9/19 (Wed) 9pm
   
 ## Assignments
 
@@ -18,9 +20,9 @@
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
 |-------|---------|------------------|--------------------|
 |9/4,6 | Introduction - what softwares do, requirements and challenges to make them good, safe, and reliable | Environment setup | HW1 out |
-|9/11,13| How to collaborate as a team and the methods and tools for it | Git + GitHub practice with basic javascript + python coding examples | Team formation start |
-|9/18,20 | Good coding habits. Comments and code conventions | Typescript + Front-end lecture (with a sample provided backend) | Team formation due 9/17 9pm; HW 1 due 9/21 9pm |
-|9/25(추석),27 | Complexity problem and software structures | Typescript + Front-end lecture cont’d | Project proposal due 9/24 (Monday) 9pm, Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) | 
+|9/11,13| How to collaborate as a team and the methods and tools for it | Git + GitHub practice with basic javascript + python coding examples | Team formation due 9/12 (Wed) 9pm; |
+|9/18,20 | Good coding habits. Comments and code conventions | Typescript + Front-end lecture (with a sample provided backend) |  Project proposal due 9/19 (Wed) 9pm, HW 1 due 9/21 9pm |
+|9/25(추석),27 | Complexity problem and software structures | Typescript + Front-end lecture cont’d |  Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) | 
 |10/2,4 | Complexity problem and software structures | |  |
 |10/9,11 | Testing and throwing exceptions, Requirements and specification | Python + Creating backend for the created front-end from previous week | HW 2 due 10/12 9pm, Project sprint 2 begin |
 |10/16,18 | Software development processes, Design patterns I | Python + Creating backend for the created front-end, Testing and CI | |
