@@ -16,4 +16,4 @@ Send your proposal in pdf or doc to swpp-staff at spl.snu.ac.kr via email. The p
 
 Please write your proposal in *English*!
 
-<!--- For your reference: [Proposal Examples](examples) -->
+For your reference: [Proposal Examples](proposal-examples)
