@@ -35,7 +35,7 @@
 |11/27,29 | Operation (load testing, security) | Scaling | Coding exams (2 hours) |
 |12/4,6 | Code optimization | | Project sprint 6 begin |
 |12/11,13 | TBD | | |
-|12/18 | Project poster session | | |
+|12/18 | Project poster session | | Project final report (due 12/20 8:59 pm) |
 
 ## Office hours
 **Professor** : 
