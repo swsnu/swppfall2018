@@ -14,6 +14,6 @@ In particular, your proposal should include:
 
 Send your proposal in pdf or doc to swpp-staff at spl.snu.ac.kr via email. The proposal is due 9:00PM, 9/19 (Wed).
 
-<!--- Please write your proposal in *English*! -->
+Please write your proposal in *English*!
 
 <!--- For your reference: [Proposal Examples](examples) -->

@@ -28,7 +28,7 @@ The project will follow this process:
 	- Working code up to project sprint 6
 - [Final demo poster session](postersession.md) & final report
 
-<!--- Note : Every document for each milestones must be written in **English**! -->
+Note : Every document for each milestones must be written in **English**!
 
 [Sprint Instructions](sprint-instructions.md) 
 
