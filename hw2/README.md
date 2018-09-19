@@ -26,7 +26,7 @@ You are required to create a total of five pages as shown in the below storyboar
 
   - Users should be able to sign-in by filling up the email and password inputs and hitting the sign-in button.
   - As we don't have a proper backend, we don't do real, security-aware authentication yet, but users should only be able to log in with an account with an email of 'swpp@snu.ac.kr' and password of 'iluvswpp'.
-  - When a user tries to sign in with invalid inputs, the frontend should emit `Email or password is wrong` message through `alert` command (in Tyepscript).
+  - When a user tries to sign in with invalid inputs, the frontend should emit `Email or password is wrong` message through `alert` command (in Typescript).
   - After signing in, users should find themselves at the article list page. (`/articles`)
   - This is the only page that unauthorized users will have access to. Unauthorized users trying to access any other pages should be redirected to this page! (use '**'!)     
 - Article list page (`/articles`)
