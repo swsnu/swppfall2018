@@ -201,7 +201,7 @@ Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNA
 Refer to HW1 to create another private repository.
 
 Please put your angular application files in the root folder (not inside another `hw2` or `skeleton` folder) appropriately.
-your directory hierarchy doesn't look like this:
+Your directory hierarchy should look like this:
 ```
 repository_root/
   README.md (this file)
