@@ -7,6 +7,7 @@
 - Sep. 03 : Homework 1 is posted!
 - Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
 - Sep. 07 : [Project guideline](project/README.md) is posted!
+- Sep. 19 : Homework 2 is posted!
   
 ## Assignments
 
