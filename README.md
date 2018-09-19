@@ -14,6 +14,10 @@
 - Sep. 03 : [homework 1](hw1) is out
   - **Due : 9/21 (Fri) 20:59 (hard deadline)**
   - This is an individual assignment
+ 
+- Sep. 19 : [homework 2](hw2) is out
+  - **Due : 10/12 (Fri) 20:59 (hard deadline)**
+  - This is an individual assignment
 
 
 ## [Project Guideline](project)
