@@ -214,7 +214,7 @@ We will compile your `form.ts` by running command `tsc` (version 3.0.3) with you
 
 Due: 9/21 (Fri) 20:59 (This is a hard deadline)
 
-You must create your own *private* repository under your account and **send them by email to `swpp-tas@spl.snu.ac.kr`**.
+You must create your own *private* repository under your account.
 **Be sure to add the TAs as collaborators in your repository settings!** (Detailed instructions below).
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please create a `python` and `typescript` folders, and put your homework files in them appropriately. 
