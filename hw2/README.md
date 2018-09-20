@@ -147,12 +147,11 @@ You should be able to implement your service component by sending appropriate ht
 
 | API                    | GET | POST | PUT | DELETE |
 |------------------------|-----|------|-----|--------|
-| `api/user`        | X | X | Update user's `signed_in` value to sign-in/sign-out | X |
-| `api/user/1`      | Get user information containing whether or not the user is signed_in | X | X | X |
-| `api/articles`             | Get article list | Create new article | Edit specified article | X |
-| `api/articles/:id`         | Get specified article | X | X | Delete specified article |
-| `api/comments`        | Get comments | Create new comment | Edit specified comment | X |
-| `api/comments/:id`         | Get specified comment | X | X | Delete specified comment |
+| `api/user/1`      | Get user information containing whether or not the user is signed_in | X | Update user's `signed_in` value to sign-in/sign-out | X |
+| `api/articles`             | Get article list | Create new article |  | X |
+| `api/articles/:id`         | Get specified article | X | Edit specified article | Delete specified article |
+| `api/comments`        | Get comments | Create new comment | X | X |
+| `api/comments/:id`         | Get specified comment | X | Edit specified comment | Delete specified comment |
 
 Articles should have an `id` (number), `author_id` (number), `title` (string), and `content` (string).
 Comments should have an `id` (number), `author_id` (number), `article_id` (number), and `content` (string).
