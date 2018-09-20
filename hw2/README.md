@@ -147,7 +147,7 @@ You should be able to implement your service component by sending appropriate ht
 
 | API                    | GET | POST | PUT | DELETE |
 |------------------------|-----|------|-----|--------|
-| `api/user/1`      | Get user information containing whether or not the user is signed_in | X | Update user's `signed_in` value to sign-in/sign-out | X |
+| `api/user/:id`      | Get user information containing whether or not the user is signed_in | X | Update user's `signed_in` value to sign-in/sign-out | X |
 | `api/articles`             | Get article list | Create new article |  | X |
 | `api/articles/:id`         | Get specified article | X | Edit specified article | Delete specified article |
 | `api/comments`        | Get comments | Create new comment | X | X |
