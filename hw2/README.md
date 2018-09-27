@@ -11,6 +11,8 @@ This assignment will help you
 ## Features
 
 Our blog will support three models: User, Articles, and Comments.
+For every requirements about HTML Tags in these tables, you **must** use the value of 'id' column as the "id" of the tag like
+`<input type="password" name="password" id="pw-input" ... />`
 You are required to create a total of five pages as shown in the below storyboard, meeting the following requirements:
 
 ![image](https://i.imgur.com/xDPo8Cl.png)
