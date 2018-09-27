@@ -138,7 +138,7 @@ You are required to create a total of five pages as shown in the below storyboar
     | button | signout-button |
 
   - Each user should be able to update or delete articles and comments only which they have created.
-  - **All pages/components should have proper unit tests to test its functionalities**, written in Jasmine, run by Karma (as shown in [this link](https://angular.io/guide/testing) and the practice session). Your tests are expected to cover all of your code, and we will give credits according to your coverage results. You can see the coverage information of your application as shown [here](https://www.angularonrails.com/add-test-coverage-report-angular-cli-project/). Also, all of your tests must pass.
+  - ~**All pages/components should have proper unit tests to test its functionalities**, written in Jasmine, run by Karma (as shown in [this link](https://angular.io/guide/testing) and the practice session). Your tests are expected to cover all of your code, and we will give credits according to your coverage results. You can see the coverage information of your application as shown [here](https://www.angularonrails.com/add-test-coverage-report-angular-cli-project/). Also, all of your tests must pass.~ Due to the course schedule, you don't have to write your unit tests. You will be required to write unit tests for HW 3 instead.
 
 We provide a [in-memory mock backend](https://angular.io/tutorial/toh-pt6) with our skeleton code.
 Due to its simplicity, we do not go over too much into authentication and security for now, but later on (with HW3 and your project), it should be considered.
@@ -161,7 +161,7 @@ Each field names are as specified above. You should be able to implement the pag
 
 ## Comments on files
 
-Files that are created inside the `skeleton` (root) and `src` folder have been already discussed during the practice session (contents in [this link](https://angular.io/guide/quickstart#project-file-review)). You are not expected to create e2e tests just yet, but each `*.ts` files under your `src/app` directory should have corresponding `*.spec.ts` files that performs unit tests on your code. We will score your homework with our own e2e tests and your unit tests coverage. As we have done so in our practice sessions, you are expected to add components under the `src/app` directory freely, according to your needs. Nicely refactored code will result in better readability and is recommended. 
+Files that are created inside the `skeleton` (root) and `src` folder have been already discussed during the practice session (contents in [this link](https://angular.io/guide/quickstart#project-file-review)). You are not expected to create e2e tests just yet. We will score your homework with our own e2e tests. As we have done so in our practice sessions, you are expected to add components under the `src/app` directory freely, according to your needs. Nicely refactored code will result in better readability and is recommended. 
 
 The `in-memory-data.service.ts` file is added to provide mock-backend for you to test out your application, and serves as specified above. **Please do not modify this file.** Under `src/app/*`, You are expected to create `Services` that communicate using HTTP, and `Components` that produce each pages meeting the requirements. The existing `AppCompoenent` is expected to be the root component of the entire application.
 Also, please do not make any un-requested alerts. It will largely harm the e2e test result.
@@ -174,9 +174,9 @@ We will test your code after conducting `npm install`, so you can import other l
 
 ## Grading
 
-This assignment is composed of a total of 70 points.
+This assignment is composed of a total of 55 points.
 We will score your code with our e2e test code, having 55 test cases that reflects the requirements given above. You will get 1 point for each passed test case.
-Also, we will check your unit test coverage. You will get 15 points if all of your unit tests pass and they cover your project entirely.
+~Also, we will check your unit test coverage. You will get 15 points if all of your unit tests pass and they cover your project entirely.~
 
 The e2e test consist of cases about:
 - Sign in page features (4 cases)
