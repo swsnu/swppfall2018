@@ -1,6 +1,6 @@
 # Homework 2 - Angular Framework
 
-#### **Due: 10/12 (Fri) 20:59 (This is a hard deadline)**
+#### **Due: 10/12 (Fri) 23:59 (This is a hard deadline)**
 
 You will implement a front-end for a blogging service using Angular framework. This is an **individual** assignment.
 This assignment will help you
@@ -195,7 +195,7 @@ It's a good idea to start with the sign-in page, and then implement routing feat
 
 ## Submission
 
-**Due: 10/12 (Fri) 20:59 (This is a hard deadline)**
+**Due: 10/12 (Fri) 23:59 (This is a hard deadline)**
 
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNAME with you own GitHub username.
