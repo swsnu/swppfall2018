@@ -8,6 +8,7 @@
 - Sep. 06 : Skeleton code of Homework 1 python is updated (to import os package)
 - Sep. 07 : [Project guideline](project/README.md) is posted!
 - Sep. 19 : Homework 2 is posted!
+- Oct. 12 : Homework 3 is posted!
   
 ## Assignments
 
@@ -19,6 +20,9 @@
   - **Due : 10/12 (Fri) 23:59 (hard deadline)**
   - This is an individual assignment
 
+- Oct. 12 : [homework 3](hw3) is out
+  - **Due : 11/2 (Fri) 20:59 (hard deadline)**
+  - This is an individual assignment
 
 ## [Project Guideline](project)
 
