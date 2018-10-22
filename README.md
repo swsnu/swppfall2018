@@ -9,6 +9,7 @@
 - Sep. 07 : [Project guideline](project/README.md) is posted!
 - Sep. 19 : Homework 2 is posted!
 - Oct. 12 : Homework 3 is posted!
+- Oct. 22 : Sprint 2 report due is extended due to the Github service disruption.
   
 ## Assignments
 
