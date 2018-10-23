@@ -64,6 +64,7 @@ To check whether you implemented your model correctly or not, please check the f
 
 ```
   from .models import Article, Comment
+  from django.contrib.auth.models import User
 
   new_user = User.objects.create_user(username='swpp', password='iluvswpp')  # Django default user model
   new_article = Article(title='I Love SWPP!', content='Believe it or not', author=new_user)
