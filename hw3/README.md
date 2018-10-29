@@ -151,9 +151,14 @@ Also, please make sure to implement your request methods under the following det
 You should also write tests to verify that your blog backend is implemented correctly.
 Your tests should reach **100%** of both the statement coverage and the branch coverage.
 
-You can check the coverage by:
+You can run your test code with coverage check by:
   - Statement coverage : `coverage run --source='./blog' manage.py test`
   - Branch coverage : `coverage run --branch --source='./blog' manage.py test`
+  
+After this, you can check your coverage report by:
+  - `coverage report`
+
+
 
 ### Tips
 
