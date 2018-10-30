@@ -152,12 +152,12 @@ You should also write tests to verify that your blog backend is implemented corr
 Your tests should reach **100%** of both the statement coverage and the branch coverage.
 
 You can run your test code with coverage check by:
+  - Install : `pip install coverage`
   - Statement coverage : `coverage run --source='./blog' manage.py test`
   - Branch coverage : `coverage run --branch --source='./blog' manage.py test`
   
 After this, you can check your coverage report by:
   - `coverage report`
-
 
 
 ### Tips
@@ -168,7 +168,7 @@ To successfully handle such requests, try the following steps:
 1. Before sending the request, send GET request to `/api/token`. The response will come with an empty content and will set the cookie `csrftoken` in your browser.
 2. Send the POST request with a header containing `HTTP_X_CSRFTOKEN` as the value of the `csrftoken`.
 
-For more detail, see `test_csrf` of the `blog/test.py` file in the skeleton code.
+For more detail, see `test_csrf` of the `blog/tests.py` file in the skeleton code.
 You may change this part if you have a better way of handling the CSRF token, but disabling the protection itself is **NOT** permitted.
 
 To test your APIs, we recommend using ARC (Advanced REST Client). Check `arc.pdf` for detailed information.
